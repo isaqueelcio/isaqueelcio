@@ -16,7 +16,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueelcio&hide=html&layout=compact&count_private=true&theme=darcula" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaqueelcio&hide=html,jupyter notebook&layout=compact&count_private=true&theme=darcula" /></td>
         <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=isaqueelcio&count_private=true&theme=darcula" /></td>
     </tr>  
   </table>
