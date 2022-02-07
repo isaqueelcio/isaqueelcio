@@ -1,10 +1,10 @@
-<h2 align="center">Hello, I'm Isaque Elcio :👨🏽‍💻:</h1>
+<h2 align="center">Olá, eu sou Isaque Elcio :👨🏽‍💻:</h1>
 
 <h3 align="center"></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isaqueelcio&color=blue" alt="isaqueelcio" />
-  <a href="">
+  <a href="https://www.linkedin.com/in/isaque-elcio-souza/">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="">
