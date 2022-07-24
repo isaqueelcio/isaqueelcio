@@ -23,7 +23,7 @@
     </tr>  
   </table>
 </center>
-
+<!--
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
@@ -60,7 +60,7 @@
   <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/spark.svg" align="left" alt="spark" height='35px'/> </a>
    
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/206748/47260428-c1313300-d4bb-11e8-97a6-f52538951811.png" align="left" alt="postgresql" height='42px'/> </a>
-
+-->
   
 
 
