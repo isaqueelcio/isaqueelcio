@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" height="30px"/>
   </a>
 </p>
-
+<!--
 <center>
   <table>
     <tr>
@@ -23,7 +23,7 @@
     </tr>  
   </table>
 </center>
-<!--
+
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
